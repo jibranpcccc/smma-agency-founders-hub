@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:45:03 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Founder Discussions (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:45:03 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Y Combinator community forum discussing technology startups, software architecture, and venture dynamics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Product Hunt Launch Network (Forum)</title>
       <link>https://www.producthunt.com</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20260914-1-2026-09-14</guid>
