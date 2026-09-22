@@ -1,5 +1,24 @@
 [
   {
+    "id": "smma-agency-founders-hub-reddit-20260922-1",
+    "title": "r/webdev SaaS Architecture Hub",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "2,200,000+ members",
+    "description": "Frontend, backend, deployment architectures, database optimizations, and web app best practices.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "architecture",
+      "software",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "smma-agency-founders-hub-telegram-20260921-1",
     "title": "Bloomberg Business & SaaS Pulse",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
