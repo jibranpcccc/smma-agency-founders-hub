@@ -1,5 +1,24 @@
 [
   {
+    "id": "smma-agency-founders-hub-reddit-20261003-1",
+    "title": "r/javascript Modern Fullstack Hub",
+    "platform": "Reddit",
+    "category": "JavaScript",
+    "memberCount": "2,400,000+ members",
+    "description": "JavaScript language features, Node.js runtime performance, and ecosystem tooling discussions.",
+    "joinUrl": "https://www.reddit.com/r/javascript/",
+    "tags": [
+      "javascript",
+      "nodejs",
+      "fullstack",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-03"
+  },
+  {
     "id": "smma-agency-founders-hub-reddit-20261002-1",
     "title": "r/golang High Performance APIs",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-02"
   },
   {
