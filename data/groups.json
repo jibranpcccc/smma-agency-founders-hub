@@ -1,5 +1,24 @@
 [
   {
+    "id": "smma-agency-founders-hub-telegram-20261009-1",
+    "title": "Cloud Native Infrastructure Hub",
+    "platform": "Telegram",
+    "category": "Cloud",
+    "memberCount": "36,000+ members",
+    "description": "Cloud native updates, Kubernetes patterns, Docker optimizations, and CI/CD pipelines.",
+    "joinUrl": "https://t.me/cloud_native_hub",
+    "tags": [
+      "telegram",
+      "cloud",
+      "devops",
+      "infrastructure"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-09"
+  },
+  {
     "id": "smma-agency-founders-hub-telegram-20261008-1",
     "title": "Python Scripts & Automation Channel",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-08"
   },
   {
