@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:01:01 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Global Startups Hub Channel (Telegram)</title>
+      <link>https://t.me/startup_hub</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-telegram-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:01:01 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Updates on venture capital fundings, Product Hunt launches, and SaaS acquisition multiples.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: SEO Professionals Discord (Discord)</title>
       <link>https://discord.gg/seo</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:02:47 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Independent software builders sharing transparent MRR metrics, product validation journeys, and micro-SaaS launches.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/SaaS Software Founders (Reddit)</title>
-      <link>https://www.reddit.com/r/SaaS/</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:30:19 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Premier community for B2B SaaS founders, discussing PLG, customer churn, Stripe MRR, and pricing strategies.</description>
     </item>
   </channel>
 </rss>
