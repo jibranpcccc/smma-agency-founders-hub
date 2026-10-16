@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:01:03 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
+      <link>https://www.reddit.com/r/rust/</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20261016-1-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:01:03 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Indie Hackers Community (Forum)</title>
       <link>https://www.indiehackers.com</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20261015-1-2026-10-15</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 10:45:03 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Y Combinator community forum discussing technology startups, software architecture, and venture dynamics.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Product Hunt Launch Network (Forum)</title>
-      <link>https://www.producthunt.com</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 06:07:08 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: The definitive launchpad for new software products, community upvoting, Maker discussions, and feedback.</description>
     </item>
   </channel>
 </rss>
