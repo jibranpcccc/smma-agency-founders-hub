@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:01:02 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:01:02 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Language News &amp; Updates (Telegram)</title>
       <link>https://t.me/rust_lang_news</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-telegram-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:56 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: World-class React and TypeScript developer community building rich web application user interfaces.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Devcord Tech SaaS Discord (Discord)</title>
-      <link>https://discord.gg/devcord</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:15:01 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Vibrant fullstack community focusing on shipping production SaaS apps, APIs, and modern frontends.</description>
     </item>
   </channel>
 </rss>
