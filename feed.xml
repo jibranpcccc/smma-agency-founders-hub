@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:01:07 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
+      <link>https://discord.gg/vue</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:01:07 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
       <link>https://www.reddit.com/r/cpp/</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-telegram-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:56 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Curated macro business news, tech earnings analyses, and enterprise market trends.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tech Founders Telegram Broadcast (Telegram)</title>
-      <link>https://t.me/techcrunch</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-telegram-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:01:11 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Breaking technology startup funding rounds, product launches, and venture capital updates.</description>
     </item>
   </channel>
 </rss>
