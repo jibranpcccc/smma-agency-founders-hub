@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:01:03 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
+      <link>https://users.rust-lang.org</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-github-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:01:03 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
       <link>https://discord.gg/vue</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:00:57 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Frontend, backend, deployment architectures, database optimizations, and web app best practices.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Bloomberg Business &amp; SaaS Pulse (Telegram)</title>
-      <link>https://t.me/bloomberg</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-telegram-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:00:56 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Curated macro business news, tech earnings analyses, and enterprise market trends.</description>
     </item>
   </channel>
 </rss>
