@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:01:05 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                    <item>
+                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20261025-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:01:05 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Stack Overflow Python Questions (Forum)</title>
       <link>https://stackoverflow.com/questions/tagged/python</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20261024-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:01:01 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: A collaborative multi-language developer Discord covering architecture, algorithms, and career advice.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS UI Builders Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:00:59 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Designers and engineers crafting slick SaaS landing pages and component systems with Tailwind CSS.</description>
     </item>
   </channel>
 </rss>
