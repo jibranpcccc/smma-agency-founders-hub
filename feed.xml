@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:01:02 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                            <item>
+                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
+      <link>https://www.reddit.com/r/science/</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20261027-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:01:02 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
       <link>https://www.reddit.com/r/technology/</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-20261026-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:01:01 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Go programmers building ultra-low-latency backend APIs, concurrency pipelines, and microservices.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Python Microservices Discord (Discord)</title>
-      <link>https://discord.gg/python</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-discord-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:01:01 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Active server for Python API design, FastAPI microservices, and asynchronous background tasks.</description>
     </item>
   </channel>
 </rss>
