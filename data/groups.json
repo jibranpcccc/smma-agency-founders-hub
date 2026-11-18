@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/socialmediamarketing Agency Scaling",
+    "platform": "Reddit",
+    "category": "SMM Agency",
+    "memberCount": "340,000+ members",
+    "description": "The central forum for social media marketing agency founders, service packaging, retainers, and client reporting.",
+    "joinUrl": "https://www.reddit.com/r/socialmediamarketing/",
+    "tags": [
+      "smma",
+      "agency",
+      "retainers",
+      "reddit"
+    ],
+    "id": "smma-agency-founders-hub-reddit-1",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "smma-agency-founders-hub-discord-20261031-1",
     "title": "Technology & Science Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -777,24 +796,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/socialmediamarketing Agency Scaling",
-    "platform": "Reddit",
-    "category": "SMM Agency",
-    "memberCount": "340,000+ members",
-    "description": "The central forum for social media marketing agency founders, service packaging, retainers, and client reporting.",
-    "joinUrl": "https://www.reddit.com/r/socialmediamarketing/",
-    "tags": [
-      "smma",
-      "agency",
-      "retainers",
-      "reddit"
-    ],
-    "id": "smma-agency-founders-hub-reddit-1",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/marketing Agency Leadership",
