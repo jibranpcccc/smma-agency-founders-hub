@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/digitalmarketing Full-Funnel Services",
+    "platform": "Reddit",
+    "category": "Digital Services",
+    "memberCount": "320,000+ members",
+    "description": "Managing client ad accounts across Meta, Google, TikTok, LinkedIn, and delivering verified ROAS.",
+    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
+    "tags": [
+      "digitalmarketing",
+      "roas",
+      "adaccounts",
+      "clients"
+    ],
+    "id": "smma-agency-founders-hub-reddit-3",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "title": "r/marketing Agency Leadership",
     "platform": "Reddit",
     "category": "Marketing Strategy",
@@ -15,7 +34,7 @@
     "id": "smma-agency-founders-hub-reddit-2",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -815,24 +834,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/digitalmarketing Full-Funnel Services",
-    "platform": "Reddit",
-    "category": "Digital Services",
-    "memberCount": "320,000+ members",
-    "description": "Managing client ad accounts across Meta, Google, TikTok, LinkedIn, and delivering verified ROAS.",
-    "joinUrl": "https://www.reddit.com/r/digitalmarketing/",
-    "tags": [
-      "digitalmarketing",
-      "roas",
-      "adaccounts",
-      "clients"
-    ],
-    "id": "smma-agency-founders-hub-reddit-3",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/sales B2B Consultative Selling",
