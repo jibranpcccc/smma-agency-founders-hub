@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/sales B2B Consultative Selling",
+    "platform": "Reddit",
+    "category": "B2B Sales",
+    "memberCount": "340,000+ members",
+    "description": "Discovery call structures, value pitching, closing high-ticket monthly retainers, and handling price resistance.",
+    "joinUrl": "https://www.reddit.com/r/sales/",
+    "tags": [
+      "sales",
+      "b2b",
+      "retainers",
+      "closing"
+    ],
+    "id": "smma-agency-founders-hub-reddit-4",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "title": "r/digitalmarketing Full-Funnel Services",
     "platform": "Reddit",
     "category": "Digital Services",
@@ -15,7 +34,7 @@
     "id": "smma-agency-founders-hub-reddit-3",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -834,24 +853,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/sales B2B Consultative Selling",
-    "platform": "Reddit",
-    "category": "B2B Sales",
-    "memberCount": "340,000+ members",
-    "description": "Discovery call structures, value pitching, closing high-ticket monthly retainers, and handling price resistance.",
-    "joinUrl": "https://www.reddit.com/r/sales/",
-    "tags": [
-      "sales",
-      "b2b",
-      "retainers",
-      "closing"
-    ],
-    "id": "smma-agency-founders-hub-reddit-4",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/coldemail Cold Outreach Infrastructure",
