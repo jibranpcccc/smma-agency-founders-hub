@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/coldemail Cold Outreach Infrastructure",
+    "platform": "Reddit",
+    "category": "Cold Outreach",
+    "memberCount": "35,000+ members",
+    "description": "Secondary domain setup, SPF/DKIM/DMARC records, warm-up pools (Instantly/Smartlead), and copywriting for high reply rates.",
+    "joinUrl": "https://www.reddit.com/r/coldemail/",
+    "tags": [
+      "coldemail",
+      "deliverability",
+      "smartlead",
+      "instantly"
+    ],
+    "id": "smma-agency-founders-hub-reddit-5",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "title": "r/sales B2B Consultative Selling",
     "platform": "Reddit",
     "category": "B2B Sales",
@@ -15,7 +34,7 @@
     "id": "smma-agency-founders-hub-reddit-4",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/coldemail Cold Outreach Infrastructure",
-    "platform": "Reddit",
-    "category": "Cold Outreach",
-    "memberCount": "35,000+ members",
-    "description": "Secondary domain setup, SPF/DKIM/DMARC records, warm-up pools (Instantly/Smartlead), and copywriting for high reply rates.",
-    "joinUrl": "https://www.reddit.com/r/coldemail/",
-    "tags": [
-      "coldemail",
-      "deliverability",
-      "smartlead",
-      "instantly"
-    ],
-    "id": "smma-agency-founders-hub-reddit-5",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/leadgeneration B2B Prospecting",
