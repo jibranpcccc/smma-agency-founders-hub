@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/leadgeneration B2B Prospecting",
+    "platform": "Reddit",
+    "category": "Lead Generation",
+    "memberCount": "48,000+ members",
+    "description": "Scraping verified B2B leads (Apollo, LinkedIn Sales Navigator), intent data, and multi-touch outbound cadences.",
+    "joinUrl": "https://www.reddit.com/r/leadgeneration/",
+    "tags": [
+      "leadgeneration",
+      "apollo",
+      "prospecting",
+      "linkedin"
+    ],
+    "id": "smma-agency-founders-hub-reddit-6",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "title": "r/coldemail Cold Outreach Infrastructure",
     "platform": "Reddit",
     "category": "Cold Outreach",
@@ -15,7 +34,7 @@
     "id": "smma-agency-founders-hub-reddit-5",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -872,24 +891,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/leadgeneration B2B Prospecting",
-    "platform": "Reddit",
-    "category": "Lead Generation",
-    "memberCount": "48,000+ members",
-    "description": "Scraping verified B2B leads (Apollo, LinkedIn Sales Navigator), intent data, and multi-touch outbound cadences.",
-    "joinUrl": "https://www.reddit.com/r/leadgeneration/",
-    "tags": [
-      "leadgeneration",
-      "apollo",
-      "prospecting",
-      "linkedin"
-    ],
-    "id": "smma-agency-founders-hub-reddit-6",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/agency Agency Operations & Growth",

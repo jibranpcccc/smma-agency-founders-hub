@@ -4,10 +4,17 @@
     <title>SMMA &amp; Cold Outreach Agency Hub</title>
     <link>https://smma-agency-founders-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:43:37 GMT</lastBuildDate>
     <atom:link href="https://smma-agency-founders-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/leadgeneration B2B Prospecting (Reddit)</title>
+      <link>https://www.reddit.com/r/leadgeneration/</link>
+      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:43:37 GMT</pubDate>
+      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Scraping verified B2B leads (Apollo, LinkedIn Sales Navigator), intent data, and multi-touch outbound cadences.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/coldemail Cold Outreach Infrastructure (Reddit)</title>
       <link>https://www.reddit.com/r/coldemail/</link>
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-reddit-5-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-forum-20261024-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:01:01 GMT</pubDate>
       <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: The world's largest repository of solved Python questions, debugging threads, and code snippets.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
-      <link>https://github.com/vercel/next.js/discussions</link>
-      <guid isPermaLink="false">https://smma-agency-founders-hub.vercel.app/#smma-agency-founders-hub-github-20261023-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:01:04 GMT</pubDate>
-      <description>Newly verified community added to SMMA &amp; Cold Outreach Agency Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
     </item>
   </channel>
 </rss>
