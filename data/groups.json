@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/agency Agency Operations & Growth",
+    "platform": "Reddit",
+    "category": "Agency Management",
+    "memberCount": "52,000+ members",
+    "description": "Discussions on agency profit margins, hiring media buyers, project management (ClickUp/Asana), and SOP creation.",
+    "joinUrl": "https://www.reddit.com/r/agency/",
+    "tags": [
+      "agency",
+      "operations",
+      "margins",
+      "sops"
+    ],
+    "id": "smma-agency-founders-hub-reddit-7",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "title": "r/leadgeneration B2B Prospecting",
     "platform": "Reddit",
     "category": "Lead Generation",
@@ -15,7 +34,7 @@
     "id": "smma-agency-founders-hub-reddit-6",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -891,24 +910,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/agency Agency Operations & Growth",
-    "platform": "Reddit",
-    "category": "Agency Management",
-    "memberCount": "52,000+ members",
-    "description": "Discussions on agency profit margins, hiring media buyers, project management (ClickUp/Asana), and SOP creation.",
-    "joinUrl": "https://www.reddit.com/r/agency/",
-    "tags": [
-      "agency",
-      "operations",
-      "margins",
-      "sops"
-    ],
-    "id": "smma-agency-founders-hub-reddit-7",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Entrepreneur Scalable Services",
