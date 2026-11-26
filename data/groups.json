@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/smallbusiness Client Agreements",
+    "platform": "Reddit",
+    "category": "Small Business",
+    "memberCount": "2,400,000+ members",
+    "description": "Standard service level agreements (SLAs), client onboarding questionnaires, invoicing, and dispute mitigation.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "smallbusiness",
+      "agreements",
+      "sla",
+      "invoicing"
+    ],
+    "id": "smma-agency-founders-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/Entrepreneur Scalable Services",
     "platform": "Reddit",
     "category": "Entrepreneurship",
@@ -15,7 +34,7 @@
     "id": "smma-agency-founders-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -929,24 +948,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/smallbusiness Client Agreements",
-    "platform": "Reddit",
-    "category": "Small Business",
-    "memberCount": "2,400,000+ members",
-    "description": "Standard service level agreements (SLAs), client onboarding questionnaires, invoicing, and dispute mitigation.",
-    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
-    "tags": [
-      "smallbusiness",
-      "agreements",
-      "sla",
-      "invoicing"
-    ],
-    "id": "smma-agency-founders-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/b2b Business-To-Business Strategy",
